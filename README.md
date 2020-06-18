@@ -5,7 +5,7 @@
 ### Before that, small and tiny Twitter dataset were tested locally.  
 
 #### composition of program  
-    1. [Assignment1-code.py](https://github.com/CinderCC/HPC-Twitter-Processing-paralleling/blob/master/Assignment1-code.py)    
+    1. Assignment1-code.py   
        is the main part to operate the program by using paralleling.
     2. the Slurm files are to control and allow the given number of nodes and cores to be utilized in the searching.   
        + 1 node and 1 core
